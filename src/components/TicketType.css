@@ -1,0 +1,23 @@
+.tcktTyp{
+    
+    margin-right: 20px;
+}
+option{
+    padding: 50px;
+}
+#tickettype {
+    width: 110px; /* Make the select element fill its container */
+    padding: 5px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+  }
+  #tickettype option{
+    background-color: #fff;
+    color: #333;
+    margin-top: 5px;
+  }
+  #tickettype option:checked {
+    background-color: #c516cb; /* Set a different background color for the selected option */
+    color: #fff; /* Set a different text color for the selected option */
+  }

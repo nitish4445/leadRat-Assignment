@@ -1,0 +1,18 @@
+.screen{
+    margin-top: 50px;
+    position: relative;
+    width: 80%;
+    border-top: 3px solid #fd6565;
+    border-radius: 20%;
+    overflow: hidden;
+    box-shadow: inset 0px 10px 20px var(--color);
+    text-align: center;
+    padding-top: 15px;
+    color:black;
+    font-size: 12px;
+    font-weight: 700;
+    margin-left: 120px;
+}
+:root{
+    --color:linear-gradient(0deg,transparent,rgb(184,184,184,.2))
+}

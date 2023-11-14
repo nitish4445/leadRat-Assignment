@@ -1,0 +1,25 @@
+.right{
+    display: flex;
+    justify-content: center;
+    
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+li {
+    flex: 1;
+    text-align: center; 
+    margin: 0 10px; 
+  }
+  h3{
+    text-align: center;
+  }
+  .unavailable{
+    filter: invert(15%) sepia(99%) saturate(7455%) hue-rotate(2deg) brightness(101%) contrast(106%);
+  }
+  
+  .yourselection{
+    filter: invert(95%) sepia(41%) saturate(6882%) hue-rotate(54deg) brightness(90%) contrast(108%);
+  }

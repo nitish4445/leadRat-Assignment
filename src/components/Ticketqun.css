@@ -1,0 +1,19 @@
+
+#qty {
+    width: 110px; 
+    padding: 5px; 
+    font-size: 16px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+  }
+  #qty option {
+    background-color: #fff; 
+    color: #333; 
+  }
+  #qty option:checked {
+    background-color:  #c516cb; 
+    color: #fff; 
+  }
+  
+  
+  

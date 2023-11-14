@@ -1,0 +1,26 @@
+.navbar {
+    min-width: 100%;
+    height: 10vh;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .movieName{
+    max-width: 50%;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+  }
+  #ticketSecection{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    min-width: 100px;
+  }
+
+  
